@@ -3,7 +3,7 @@ The four MG 996R servo motors that are giving movement to the robotic arm need
 motors are spinning at full speed with no resistance.
 The free spinning current can get to as low as 500 milliamperes(mA). To drive all four motors
 simultaneously and freely a 2A current will be required. So far, I have been able to drive
-up to three motors at the simultaneously, under load, with only 1A of current at 5V.
+up to three motors simultaneously, under load, with only 1A of current at 5V.
 
 
 Next, a 11.1V, 2200mA, lithuim polymer battery will be used to drive the arm.
